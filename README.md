@@ -22,5 +22,4 @@
 - Interactive Fitness Tracking Web App — workout logging app with real-time data visualization and gamified progress tracking. Tools: JavaScript · Chart.js
 
 
-📄 CV
-[Download My CV]()
+📄 [CV]()
