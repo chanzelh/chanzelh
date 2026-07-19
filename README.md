@@ -16,10 +16,10 @@
 
 📂 Projects
 
-- Cinema Management & Inventory System — high-concurrency payment and inventory system built for a Ster-Kinekor-style use case, handling surge demand and real-time sales reporting. Tools: C# · SQL Server
-- Hero Records Management System — version-controlled Windows Forms app for tracking trainee assessments, rank calculations, and records. Tools: C# · Git
-- EMS Dispatch Test Architecture — structured test plan for emergency dispatch software, combining automated xUnit tests with manual black-box/white-box testing. Tools: xUnit · Manual Testing
-- Interactive Fitness Tracking Web App — workout logging app with real-time data visualization and gamified progress tracking. Tools: JavaScript · Chart.js
+- Cinema Management & Inventory System : high-concurrency payment and inventory system built for a Ster-Kinekor-style use case, handling surge demand and real-time sales reporting. Tools: C# · SQL Server
+- Hero Records Management System : version-controlled Windows Forms app for tracking trainee assessments, rank calculations, and records. Tools: C# · Git
+- EMS Dispatch Test Architecture : structured test plan for emergency dispatch software, combining automated xUnit tests with manual black-box/white-box testing. Tools: xUnit · Manual Testing
+- Interactive Fitness Tracking Web App : workout logging app with real-time data visualization and gamified progress tracking. Tools: JavaScript · Chart.js
 
 
 📄 [CV]()
