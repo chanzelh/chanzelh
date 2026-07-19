@@ -1,7 +1,7 @@
 👋 Hi, I'm Chanzél Hammond
 
 - 🎓 Computer Science / Software Engineering Student at Belgium Campus iTVersity
-- 💰 Also a top-performing Sales Development Rep, R4.1M+ in revenue generated — I like being on both sides of the tech: building it and explaining why it matters
+- 💰 Also a top-performing Sales Development Rep, R4.1M+ in revenue generated - I like being on both sides of the tech: building it and explaining why it matters
 - 🌱 Interested in how software gets adopted, not just how it's built - UX, product thinking, and the gap between "it works" and "people want it"
 - 💼 Seeking a 4th-year internship / graduate opportunity in software development
 
