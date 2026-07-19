@@ -1,8 +1,8 @@
-##Hey, I'm Chanzél 👋
+## Hey, I'm Chanzél 👋
 ***
 I sell software before I ever write it - and then I go write it.
 ***
-#About Me
+# About Me
 ***
 ZAR4.1M+ ($250 000+) in revenue closed as a Sales Development Rep, currently studying Computer Science at Belgium Campus iTVersity. Most people can build or sell. I'm betting on being decent at both, because the best products come from people who understand why someone would actually pay for them.
 
